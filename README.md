@@ -1,7 +1,7 @@
 # :wave: Hi! I'm Tristian.
 
 * 🤖 FIRST Alumni
-* 🏫 Future Computer Science student at Kansas State University
+* 🏫 Computer Science student at Western Governors University
 
 <div align="center">
 
