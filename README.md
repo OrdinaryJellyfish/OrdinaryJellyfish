@@ -1,7 +1,7 @@
 # :wave: Hi! I'm Tristian.
 
 * 🤖 FIRST Alumni
-* 🏫 Computer Science student at Western Governors University
+* 🏫 Computer Science student at Southern New Hampshire University
 
 <div align="center">
 
