@@ -4,10 +4,10 @@
 
 ## My Philosophy
 
-- **Empathy**: Building technology that prioritizes the people using it.
+- **Empathy**: Build technology that prioritizes the people using it.
 - **Integrity**: Always stay true to my principles, even when it’s tough.
-- **Innovation**: Constantly challenging the status quo and finding creative solutions to complex problems.
-- **Collaboration**: Believing in the power of community, because great things happen when we work together.
+- **Innovation**: Constantly challenge the status quo and find creative solutions to complex problems.
+- **Collaboration**: Believe in the power of community, because great things happen when we work together.
 
 ## Goals & Aspirations
 
